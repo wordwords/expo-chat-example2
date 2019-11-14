@@ -20,6 +20,7 @@ import io from 'socket.io-client';
  * server chat mssg red and sclient black
  */
 
+ // 이거
 class ListItem extends Component{
 
   render(){
